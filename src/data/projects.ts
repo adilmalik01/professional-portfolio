@@ -114,7 +114,7 @@ export const PROJECTS_CARD: ProjectCardProps[] = [
   },
   {
     name: "Food Hub",
-    favicon: "😋",
+    favicon: "🍽️",
     imageUrl: ["/images/projects/food-hub.png"],
     description:
       "This is a responsive Food Hub website developed with HTML, CSS, and JavaScript, utilizing API fetching to dynamically display various dishes. The application features a search filter functionality, allowing users to easily find their desired meals. With a focus on usability and design, the website provides an engaging user experience and ensures compatibility across different devices, making it easy to explore and discover a variety of culinary options.",
