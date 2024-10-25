@@ -13,10 +13,8 @@ export const siteMetadata = {
   twitterImage: "/static/homepage.png",
   socialBanner: "/static/homepage.png",
   email: "malikadil5679@gmail.com",
-  github: "https://github.com/adilmalik01",
-  blogs: "https://thisisvishal.hashnode.dev/",
-  twitter: "https://x.com/Vishalk01234",
-  linkedin: "https://www.linkedin.com/in/vishalkumar28/",
+  github: "https://github.com/adilmalik01/",
+  linkedin: "https://www.linkedin.com/in/adil-malik-376b1a268/",
   locale: "en-US",
   googleSiteVerification: "_YJlO90eSoye2AQOhbkRAzNbejzCGiTgAD4RNR3NtHc",
 };
