@@ -34,7 +34,7 @@ export default function Footer() {
             <GithubIcon className="text-accent transition-colors duration-150 hover:text-accent-foreground" />
           </a>
           <a
-            href={siteMetadata.twitter}
+            href={""}
             target="_blank"
             className="h-6 w-6"
             aria-label="link to Twitter"

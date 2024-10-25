@@ -28,7 +28,7 @@ export default function ProjectShowcaseList(props: ProjectShowcaseListProps) {
       onHoverStart={() => props.toggleList(props.data.index)}
       onFocus={() => props.toggleList(props.data.index)}
     >
-      <span
+      <span 
         className={classNames(
           "hidden text-6xl font-semibold transition-colors duration-300 lg:block",
           props.activeProject === props.data.index
